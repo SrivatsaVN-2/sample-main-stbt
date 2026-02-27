@@ -1,4 +1,4 @@
-from sample_api.hello_api import hello_world
+from sample-api.hello_api import hello_world
 
 
 def call_api():
