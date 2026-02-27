@@ -1,0 +1,3 @@
+[submodule "sample-api"]
+	path = sample-api
+	url = https://github.com/SrivatsaVN-2/sample-api
